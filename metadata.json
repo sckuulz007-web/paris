@@ -1,0 +1,6 @@
+{
+  "name": "Conjunto Paris Moletom Flanelado",
+  "description": "Landing page de alta conversão para o Conjunto de Moletom Masculino Paris Flanelado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
